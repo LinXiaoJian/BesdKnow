@@ -1,0 +1,16 @@
+.main-title{
+    padding: 50px 0;
+
+}
+.ice-common{
+    max-width: 800px;
+}
+.ice-div .ice-panel-original{
+    margin: 0 auto;
+}
+.footer{
+    margin-top: 50px;
+    font-size: 13;
+    color:#fff;
+    background: #2c3d4f;
+}
