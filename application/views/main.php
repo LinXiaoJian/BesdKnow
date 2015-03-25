@@ -1,16 +1,7 @@
-<!--导航栏-->
-<header class="ice-menu ice-menu-hover ice-menu-lucency">
-    <div class="ice-menu-logo"><img src="img/logo.png" alt=""/></div>
-    <nav class="ice-main-nav">
-        <ul>
-            <li><a href="#0">Home</a></li>
-            <li><a href="#0">User</a></li>
-            <li><a href="#0">About</a></li>
-            <li><a href="#0">Login</a></li>
-        </ul>
-    </nav>
-</header>
-<!--/导航栏-->
+<script>
+    //加入ice-menu-lucency使导航栏在首页背景透明
+    $('.ice-menu').addClass('ice-menu-lucency');
+</script>
 <!--大图-->
 <div class="ice-div ice-intro-big ice-center" style="background-image:url('img/bg.jpg')">
     <div class="ice-center-abs">    <!--ICECSS中绝对居中-->
